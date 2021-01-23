@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="088351a8-b790-4200-b42d-dd7d46fd8ac1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ksuAkygFqCIEscKWUqFruGpppV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BankAtm_sockets" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25977013" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\UoM\7th_semester\Κατανεμημένα συστήματα\BankAtm_thrift\src\main\java\Client\thrift" />
+      <recent name="C:\Users\user\Documents\UoM\7th_semester\Κατανεμημένα συστήματα\BankAtm_thrift\src\main\java\server\thrift" />
+      <recent name="C:\Users\user\Documents\UoM\7th_semester\Κατανεμημένα συστήματα\BankAtm_thrift\src\main\java\Client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BankClient">
+    <configuration name="BankClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.BankClient" />
+      <module name="BankAtm_thrift" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.BankServer" />
+      <module name="BankAtm_thrift" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankClient" />
+        <item itemvalue="Application.BankServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="088351a8-b790-4200-b42d-dd7d46fd8ac1" name="Default Changelist" comment="" />
+      <created>1606501481726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606501481726</updated>
+      <workItem from="1606501482843" duration="5809000" />
+      <workItem from="1609173526975" duration="11870000" />
+      <workItem from="1609189093901" duration="1001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1949" y="361" key="#SQL_Dialects" timestamp="1609189581739">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1949" y="361" key="#SQL_Dialects/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609189581739" />
+    <state x="2152" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609189596055">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2152" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609189596055" />
+    <state x="2326" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1609176401815">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2326" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609176401815" />
+    <state x="605" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1606502238878" />
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606511490274">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1606511490274" />
+    <state x="2296" y="224" key="FileChooserDialogImpl" timestamp="1609189479648">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2296" y="224" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609189479648" />
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1606512376100" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1609190103679">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609190103679" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606513206631" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1609190103679">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609190103679" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1606513206630" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1609190103679">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609190103679" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1606513206630" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1609190103679">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609190103679" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1606513206631" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1609188574673">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609188574673" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606513206632" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1609188574672">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609188574672" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1606513206631" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1609188574672">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609188574672" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1606513206631" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1609188574673">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609188574673" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1606513206632" />
+    <state x="330" y="85" key="Maven.ArtifactSearchDialog" timestamp="1606502070691">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="85" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1606502070691" />
+    <state x="615" y="364" key="ReplaceDuplicatesPrompt" timestamp="1606510529845">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="615" y="364" key="ReplaceDuplicatesPrompt/0.0.1600.860@0.0.1600.860" timestamp="1606510529845" />
+    <state x="1961" y="11" key="SettingsEditor" timestamp="1609185530629">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1961" y="11" key="SettingsEditor/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609185530629" />
+    <state x="301" y="9" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606509369218" />
+    <state x="530" y="180" key="extract.method.dialog" timestamp="1606510525049">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="180" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1606510525049" />
+    <state x="1818" y="110" key="new project wizard" timestamp="1609187305034">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1818" y="110" key="new project wizard/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1609187305034" />
+    <state x="182" y="91" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1606502271856" />
+  </component>
+</project>
