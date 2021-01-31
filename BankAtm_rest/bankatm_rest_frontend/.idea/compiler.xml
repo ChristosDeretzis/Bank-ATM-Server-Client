@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="BankAtm_thrift" />
-        <module name="BankAtm_rabbitmq" />
+        <module name="bankatm_rest_frontend" />
       </profile>
     </annotationProcessing>
   </component>
