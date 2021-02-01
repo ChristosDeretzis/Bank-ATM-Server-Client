@@ -13,7 +13,7 @@
 /app/phpunit.xml
 
 #IDE metadata
-**/**.idea/**
+**/.idea/**
 
 #Bash files
 run.sh
