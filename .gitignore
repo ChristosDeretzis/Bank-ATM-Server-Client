@@ -14,7 +14,7 @@
 
 #IDE metadata
 **.idea/**
-**/**.idea/**
+**/.idea/**
 
 #Bash files
 run.sh
