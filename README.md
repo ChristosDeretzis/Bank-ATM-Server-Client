@@ -11,5 +11,8 @@ The atm client sends a request to the server and then the server responds based 
 
 ## Tools and Technologies used
 * Java 8
-* Spring Boot (for the Rest implementation)
+* Spring Boot and Hibernate (for the Rest implementation)
 * MySQL 
+* Rabbit MQ
+* Apache Thrift
+* RMI
